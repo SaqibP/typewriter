@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 100vh;
+  background-color: aqua;
+}
+
+.main-con {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  top: 40%;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-weight: 100%;
+}
